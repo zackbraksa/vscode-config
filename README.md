@@ -1,6 +1,6 @@
-Personal github configuration with:
+# VS Code Config
+
+Personal VS Code configuration including:
 
 - Settings
 - Extensions
-
-Most of the extensions are heavly for reactjs development. 
