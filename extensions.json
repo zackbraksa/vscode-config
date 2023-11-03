@@ -1,0 +1,12 @@
+{
+  "recommendations": [
+    "mhutchie.git-graph",
+    "GitHub.vscode-pull-request-github",
+    "GitHub.github-vscode-theme",
+    "PKief.material-icon-theme",
+    "johnpapa.vscode-peacock",
+    "numso.prettier-standard-vscode",
+    "yoavbls.pretty-ts-errors",
+    "Gruntfuggly.todo-tree"
+  ]
+}
